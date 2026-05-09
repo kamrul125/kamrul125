@@ -3,7 +3,7 @@
 
 
 
-### Hi 👋, <b>I'm Kamruzzaman<b/>
+### Hi 👋, I'm Kamruzzaman
 # Full-Stack Developer (Next.js | TypeScript | Node.js) 
 <p>🚀 Building scalable, performant, and production-ready web applications</p>
 ---
