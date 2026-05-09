@@ -1,5 +1,5 @@
 
-![Banner](http<img width="1983" height="793" alt="1" src="https://github.com/user-attachments/assets/3a98d02b-4c0b-4e13-a485-f458c826725c" />)
+<img width="1983" height="793" alt="1" src="https://github.com/user-attachments/assets/3a98d02b-4c0b-4e13-a485-f458c826725c" />
 
 ### Hi 👋, I'm Kamruzzaman
 💻 Full-Stack Developer | MERN Stack  
