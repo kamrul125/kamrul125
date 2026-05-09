@@ -5,7 +5,7 @@
 
 ## Hi 👋, I'm Kamruzzaman
 ### Full-Stack Developer (Next.js | TypeScript | Node.js) 
-🚀 Building scalable, performant, and production-ready web applications
+<p>🚀 Building scalable, performant, and production-ready web applications</p>
 ---
 
 ### 👨‍💻 About Me
